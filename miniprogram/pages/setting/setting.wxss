@@ -72,6 +72,3 @@
   justify-content:space-around;
   font-size:27rpx;
 }
-.iconfont{
-  background:#AEAEAE;
-}
