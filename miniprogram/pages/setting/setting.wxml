@@ -1,0 +1,44 @@
+
+<view class="text">
+ <text>{{text}}</text>
+</view>
+<view class="text5">
+ <text>{{text5}}</text>
+</view>
+<view class="text1"><text>{{text1}}</text></view>
+<view class="firstrow">
+  <icon class="iconfont icon-qiandao" bindtap="qd"></icon>
+  <icon class="iconfont icon-tuiguang"></icon>
+  <icon class="iconfont icon-chongzhi" bindtap="cz"></icon>
+  
+</view>
+<view class="firsttext">
+  <text>签到</text>
+  <text>推广</text>
+  <text>充值</text>
+</view>
+<view class="divLine"></view>
+<view class="text2"><text>{{text2}}</text></view>
+<view class="secondrow">
+  <icon class="iconfont icon-chuangjian" bindtap="cj"></icon>
+  <icon class="iconfont icon-jiaru"></icon>
+  <icon class="iconfont icon-jiesan"></icon>
+</view>
+<view class="firsttext">
+  <text>创建</text>
+  <text>加入</text>
+  <text>解散</text>
+</view>
+ <view class="divLine"></view>
+<view class="text3"><text>{{text3}}</text></view>
+<view class="thirdrow">
+  <view class="iconfont icon-zibao" ></view>
+  <view class="iconfont icon-fankui" bindtap="fk"></view>
+  <view class="iconfont icon-guanyu" bindtap="gy"></view>
+</view>
+ <view class="firsttext">
+  <text>自爆</text>
+  <text>反馈</text>
+  <text>关于</text>
+</view>
+<view class="divLine"></view>

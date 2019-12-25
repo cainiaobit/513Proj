@@ -1,0 +1,10 @@
+<view class="uploader">
+  <navigator url="./room/room" open-type="navigate" class="uploader-text">
+    <button>山东人</button>
+  </navigator>
+</view>
+<view class="uploader">
+  <navigator url="./beijingren/beijingren" open-type="navigate" class="uploader-text">
+    <button>北京人</button>
+  </navigator>
+</view>

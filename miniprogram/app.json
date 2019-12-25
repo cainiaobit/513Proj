@@ -1,0 +1,44 @@
+{
+  "cloud":true,
+  "pages": [
+    "pages/index/index",
+    "pages/im/im",
+    "pages/im/room/room",
+    "pages/im/beijingren/beijingren",
+    "pages/zuzhi/zuzhi",
+    "pages/setting/setting",
+    "pages/setting/guanyu/guanyu",
+    "pages/setting/feedback/feedback",
+    "pages/setting/sign/sign"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "吐槽星专属通信器",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "selectedColor": "green",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "pic/black/icon_work.png",
+        "seletedIconPath": "pic/green/icon_work.png"
+      },
+      {
+        "pagePath": "pages/zuzhi/zuzhi",
+        "text": "组织",
+        "iconPath": "pic/black/icon_meeting.png",
+        "seletedIconPath": "pic/green/icon_meeting.png"
+      },
+      {
+        "pagePath": "pages/setting/setting",
+        "text": "设置",
+        "iconPath": "pic/black/icon_setting.png",
+        "seletedIconPath": "pic/green/icon_setting.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}
